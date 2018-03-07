@@ -1,0 +1,26 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "chat bot for slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkieMark/slackbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "bot",
+    "chat",
+    "slack",
+    "slackbot"
+  ],
+  "author": "Mark Benjamin",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/MarkieMark/slackbot/issues"
+  },
+  "homepage": "https://github.com/MarkieMark/slackbot#readme"
+}
